@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZingTickets.API", "ZingTickets\ZingTickets.API\ZingTickets.API.csproj", "{EA78CA25-CED1-4526-A861-C3A273B10369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZingTickets.API", "ZingTickets\ZingTickets.API\ZingTickets.API.csproj", "{EA78CA25-CED1-4526-A861-C3A273B10369}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZingTickets.Common", "ZingTickets\ZingTickets.Common\ZingTickets.Common.csproj", "{5A072490-9338-4839-87DD-58BB4F9264C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZingTickets.Common", "ZingTickets\ZingTickets.Common\ZingTickets.Common.csproj", "{5A072490-9338-4839-87DD-58BB4F9264C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZingTickets.Data", "ZingTickets\ZingTickets.Data\ZingTickets.Data.csproj", "{20254B1F-1977-4987-8405-6E1E7BD39E6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZingTickets.Data", "ZingTickets\ZingTickets.Data\ZingTickets.Data.csproj", "{20254B1F-1977-4987-8405-6E1E7BD39E6D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZingTickets.MovieManagement", "ZingTickets\ZingTickets.MovieManagement\ZingTickets.MovieManagement.csproj", "{B21DFC4F-1A6F-4754-B855-44EA0FEBD592}"
 EndProject
@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZingTickets.MovieManagement
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZingTickets.UserManagement", "ZingTickets\ZingTickets.UserManagement\ZingTickets.UserManagement.csproj", "{2EBE1046-4856-4D65-AADD-CA340CA4558B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZingTickets.Common.Models", "ZingTickets\ZingTickets.Common.Models\ZingTickets.Common.Models.csproj", "{3619C962-33A5-4ED9-ABBA-FE1D6603DBC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZingTickets.Common.Models", "ZingTickets\ZingTickets.Common.Models\ZingTickets.Common.Models.csproj", "{3619C962-33A5-4ED9-ABBA-FE1D6603DBC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
